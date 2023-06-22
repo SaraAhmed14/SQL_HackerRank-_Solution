@@ -1,0 +1,1 @@
+Select distinct city from STATION where city like'[^ieoua]%'
